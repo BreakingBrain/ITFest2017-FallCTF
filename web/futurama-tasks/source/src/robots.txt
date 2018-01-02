@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /
+
+User-agent: Bender
+Allow: /bender.php
+
