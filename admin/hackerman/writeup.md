@@ -265,6 +265,7 @@ dd if=music.mp3 skip=13390871 bs=1 of=flag.jpg
 ```
 
 Иии мы получим изображение:
+
 ![flag](source/flag.jpg)
 
 Флаг - ```ITF{H0n3yPoooo_T_T}```
